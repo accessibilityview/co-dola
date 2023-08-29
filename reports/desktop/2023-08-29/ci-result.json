@@ -1,0 +1,802 @@
+[
+  {
+    "path": "/",
+    "score": 0.91
+  },
+  {
+    "path": "/2009-energy-codes",
+    "score": 0.97
+  },
+  {
+    "path": "/2009-iecc-resource-documents",
+    "score": 0.97
+  },
+  {
+    "path": "/2012-energy-codes",
+    "score": 0.97
+  },
+  {
+    "path": "/2012-iecc-resource-documents",
+    "score": 0.97
+  },
+  {
+    "path": "/2015-energy-codes",
+    "score": 0.97
+  },
+  {
+    "path": "/2015-iecc-resource-documents",
+    "score": 0.97
+  },
+  {
+    "path": "/2016-tenant-based-rental-assistance-rfa",
+    "score": 0.97
+  },
+  {
+    "path": "/2018-permanent-supportive-housing-program-rfa",
+    "score": 0.97
+  },
+  {
+    "path": "/2022-annual-report-overview-emergency-mortgage-assistance-program",
+    "score": 0.95
+  },
+  {
+    "path": "/2022-summer-engagement-outreach-division-of-housing",
+    "score": 0.95
+  },
+  {
+    "path": "/about-dola",
+    "score": 0.94
+  },
+  {
+    "path": "/action-plans-required-reports",
+    "score": 0.95
+  },
+  {
+    "path": "/appeal-of-your-valuation-reminder",
+    "score": 0.97
+  },
+  {
+    "path": "/assessment-appeals",
+    "score": 0.9
+  },
+  {
+    "path": "/assessment-appeals-processes",
+    "score": 0.93
+  },
+  {
+    "path": "/balance-of-state-continuum-of-care",
+    "score": 0.9
+  },
+  {
+    "path": "/board-adjustment-workshop",
+    "score": 0.92
+  },
+  {
+    "path": "/board-of-assessment-appeals-baa-board-members",
+    "score": 0.93
+  },
+  {
+    "path": "/board-of-assessment-appeals-case-search",
+    "score": 0.93
+  },
+  {
+    "path": "/board-of-assessment-appeals-forms",
+    "score": 0.92
+  },
+  {
+    "path": "/board-of-assessment-appeals-homepage/frequently-asked-questions",
+    "score": 0.93
+  },
+  {
+    "path": "/board-of-assessment-appeals-homepage/pre-hearing-checklist",
+    "score": 0.93
+  },
+  {
+    "path": "/boulder-county-collaborative",
+    "score": 0.97
+  },
+  {
+    "path": "/boulder-county-collaborative/bcc-household-assistance-programs",
+    "score": 0.95
+  },
+  {
+    "path": "/boulder-county-collaborative/bcc-infrastructure-program",
+    "score": 0.95
+  },
+  {
+    "path": "/brownfields",
+    "score": 0.95
+  },
+  {
+    "path": "/building-energy-codes",
+    "score": 0.93
+  },
+  {
+    "path": "/calendar",
+    "score": 0.94
+  },
+  {
+    "path": "/changes-to-the-housing-recovery-program",
+    "score": 0.97
+  },
+  {
+    "path": "/colorado-department-of-local-affairs-awards-more-than-18m",
+    "score": 0.97
+  },
+  {
+    "path": "/colorado-energy-code-compliance-collaborative",
+    "score": 0.97
+  },
+  {
+    "path": "/colorado-housing-investment-fund-chif",
+    "score": 0.95
+  },
+  {
+    "path": "/colorado-springs-vacancy-rent-survey-data",
+    "score": 0.96
+  },
+  {
+    "path": "/community-access-team",
+    "score": 0.94
+  },
+  {
+    "path": "/community-access-team/home-modification-tax-credit",
+    "score": 0.93
+  },
+  {
+    "path": "/community-housing-development-organizations-chdo",
+    "score": 0.97
+  },
+  {
+    "path": "/contact",
+    "score": 0.93
+  },
+  {
+    "path": "/cora",
+    "score": 0.95
+  },
+  {
+    "path": "/denver-metro-area-vacancy-rent-survey-data",
+    "score": 0.97
+  },
+  {
+    "path": "/disaster-recovery-clearance-demolition-program",
+    "score": 0.95
+  },
+  {
+    "path": "/disaster-recovery-home-access",
+    "score": 0.95
+  },
+  {
+    "path": "/disaster-recovery-housing-purchase-down-payment-assistance",
+    "score": 0.95
+  },
+  {
+    "path": "/disaster-recovery-housing-repairs-single-family-rehabilitation",
+    "score": 0.95
+  },
+  {
+    "path": "/disaster-recovery-temporary-rental-assistance-and-relocation",
+    "score": 0.94
+  },
+  {
+    "path": "/division-of-housing-is-celebrating-national-community-development-week",
+    "score": 0.97
+  },
+  {
+    "path": "/division-overview",
+    "score": 0.95
+  },
+  {
+    "path": "/document-portal",
+    "score": 0.95
+  },
+  {
+    "path": "/dola-accessibility-support",
+    "score": 0.95
+  },
+  {
+    "path": "/draft-ctf-estimates",
+    "score": 0.97
+  },
+  {
+    "path": "/early-childhood-education-health-funding",
+    "score": 0.94
+  },
+  {
+    "path": "/economic-recovery",
+    "score": 0.97
+  },
+  {
+    "path": "/economic-recovery/agriculture",
+    "score": 0.93
+  },
+  {
+    "path": "/economic-recovery/recover-colorado-business-grants",
+    "score": 0.96
+  },
+  {
+    "path": "/economic-recovery/tourism-marketing",
+    "score": 0.95
+  },
+  {
+    "path": "/EDI",
+    "score": 0.92
+  },
+  {
+    "path": "/emergency-mortgage-assistance",
+    "score": 0.79
+  },
+  {
+    "path": "/emergency-solutions-grant-esg-program",
+    "score": 0.93
+  },
+  {
+    "path": "/energy-codes-interactive-presentations",
+    "score": 0.97
+  },
+  {
+    "path": "/eviction-foreclosure-protection",
+    "score": 0.94
+  },
+  {
+    "path": "/executive-directors-office",
+    "score": 0.93
+  },
+  {
+    "path": "/factor-weights",
+    "score": 0.97
+  },
+  {
+    "path": "/fair-housing-resources",
+    "score": 0.97
+  },
+  {
+    "path": "/filing-fees",
+    "score": 0.93
+  },
+  {
+    "path": "/financial-assistance-county-totals-lookup",
+    "score": 0.88
+  },
+  {
+    "path": "/foreclosures-in-colorado",
+    "score": 0.97
+  },
+  {
+    "path": "/foreclosures-in-colorado/foreclosure-reports-and-statistics",
+    "score": 0.97
+  },
+  {
+    "path": "/forms-housing-choice-voucher-contractors",
+    "score": 0.97
+  },
+  {
+    "path": "/fort-lyon-gallery",
+    "score": 0.96
+  },
+  {
+    "path": "/fort-lyon-profiles-dv",
+    "score": 0.97
+  },
+  {
+    "path": "/fort-lyon-profiles-kv",
+    "score": 0.97
+  },
+  {
+    "path": "/fort-lyon-profiles-rd",
+    "score": 0.97
+  },
+  {
+    "path": "/fort-lyon-profiles-wlty",
+    "score": 0.97
+  },
+  {
+    "path": "/fortlyon",
+    "score": 0.96
+  },
+  {
+    "path": "/fortlyon-covid19",
+    "score": 0.93
+  },
+  {
+    "path": "/fortlyon-resident-stories",
+    "score": 0.95
+  },
+  {
+    "path": "/fraud-prevention",
+    "score": 0.95
+  },
+  {
+    "path": "/gaming-impact-grant-forms",
+    "score": 0.97
+  },
+  {
+    "path": "/glossary",
+    "score": 0.95
+  },
+  {
+    "path": "/grantee-resources",
+    "score": 0.97
+  },
+  {
+    "path": "/hctc",
+    "score": 0.95
+  },
+  {
+    "path": "/hearing-schedules",
+    "score": 0.95
+  },
+  {
+    "path": "/home",
+    "score": 0.94
+  },
+  {
+    "path": "/home-program",
+    "score": 0.97
+  },
+  {
+    "path": "/home-rent-income-limits",
+    "score": 0.97
+  },
+  {
+    "path": "/homebuyers-homeowners",
+    "score": 0.97
+  },
+  {
+    "path": "/homeless-and-runaway-youth-awareness-month",
+    "score": 0.95
+  },
+  {
+    "path": "/homeless-prevention-activities-program",
+    "score": 0.97
+  },
+  {
+    "path": "/homeless-prevention-activities-program-rfa",
+    "score": 0.97
+  },
+  {
+    "path": "/homeless-solutions-program-project-based-vouchers-request-applications",
+    "score": 0.97
+  },
+  {
+    "path": "/homeless-solutions-program-request-application-rfa-land-acquisition",
+    "score": 0.97
+  },
+  {
+    "path": "/homeowner-rehabilitation-and-reconstruction",
+    "score": 0.95
+  },
+  {
+    "path": "/households-application-requirements-checklist",
+    "score": 0.97
+  },
+  {
+    "path": "/housing",
+    "score": 0.95
+  },
+  {
+    "path": "/housing-assistance-application-interruption",
+    "score": 0.94
+  },
+  {
+    "path": "/housing-assistance-report",
+    "score": 0.91
+  },
+  {
+    "path": "/housing-counseling",
+    "score": 0.95
+  },
+  {
+    "path": "/housing-covid-19/homelessness-testing",
+    "score": 0.97
+  },
+  {
+    "path": "/housing-covid19-Cares-act",
+    "score": 0.97
+  },
+  {
+    "path": "/housing-covid19-contractor-programs",
+    "score": 0.97
+  },
+  {
+    "path": "/housing-covid19-external-homeowner",
+    "score": 0.97
+  },
+  {
+    "path": "/housing-covid19-homelessness",
+    "score": 0.97
+  },
+  {
+    "path": "/housing-development-grant-funds-hdg",
+    "score": 0.97
+  },
+  {
+    "path": "/housing-development-loan-fund-hdlf",
+    "score": 0.97
+  },
+  {
+    "path": "/housing-trust-fund-htf",
+    "score": 0.97
+  },
+  {
+    "path": "/housing/disaster-recovery-housing-construction",
+    "score": 0.95
+  },
+  {
+    "path": "/how-to-label-exhibits",
+    "score": 0.93
+  },
+  {
+    "path": "/important-dates",
+    "score": 0.97
+  },
+  {
+    "path": "/information-nsp-grantees",
+    "score": 0.97
+  },
+  {
+    "path": "/infrastructure",
+    "score": 0.95
+  },
+  {
+    "path": "/infrastructure/recover-colorado-infrastructure",
+    "score": 0.95
+  },
+  {
+    "path": "/integrating-hazards-comprehensive-plan",
+    "score": 0.95
+  },
+  {
+    "path": "/jobs",
+    "score": 0.92
+  },
+  {
+    "path": "/land-use-planning-for-wildfire-resilience",
+    "score": 0.97
+  },
+  {
+    "path": "/legal-and-rent-assistance-resources-for-tenants",
+    "score": 0.97
+  },
+  {
+    "path": "/local-government-or-public-housing-authority",
+    "score": 0.91
+  },
+  {
+    "path": "/local-government-personnel-assistance",
+    "score": 0.95
+  },
+  {
+    "path": "/mitigation-assistance-infrastructure-assistance",
+    "score": 0.95
+  },
+  {
+    "path": "/mitigation-assistance-planning-education-capacity",
+    "score": 0.95
+  },
+  {
+    "path": "/mitigation-assistance-wind-wildfire-housing-protection-program",
+    "score": 0.95
+  },
+  {
+    "path": "/mobile-home-park-dispute-resolution",
+    "score": 0.94
+  },
+  {
+    "path": "/mobile-home-park-oversight",
+    "score": 0.95
+  },
+  {
+    "path": "/mobile-home-park-oversight-program/rent-increases-in-mobile-home-parks",
+    "score": 0.95
+  },
+  {
+    "path": "/mobile-home-park-registration",
+    "score": 0.95
+  },
+  {
+    "path": "/mobile-home-park-registration/address-list",
+    "score": 0.95
+  },
+  {
+    "path": "/mobile-home-park-registration/do-you-need-to-register",
+    "score": 0.95
+  },
+  {
+    "path": "/mobile-home-park-resources",
+    "score": 0.95
+  },
+  {
+    "path": "/mobile-home-park-sales",
+    "score": 0.95
+  },
+  {
+    "path": "/mobile-home-park-stakeholder-engagement",
+    "score": 0.93
+  },
+  {
+    "path": "/money-follows-person",
+    "score": 0.97
+  },
+  {
+    "path": "/more-about-fort-lyon",
+    "score": 0.95
+  },
+  {
+    "path": "/national-housing-trust-fund-htf",
+    "score": 0.97
+  },
+  {
+    "path": "/neighborhood-stabilization-program",
+    "score": 0.97
+  },
+  {
+    "path": "/neighborhood-stabilization-program-guidelines-and-regulations",
+    "score": 0.97
+  },
+  {
+    "path": "/news-article/colorados-population-increases-by-100986",
+    "score": 0.98
+  },
+  {
+    "path": "/news-article/department-of-local-affairs-announces-payments-of-379m-to-local-governments",
+    "score": 0.98
+  },
+  {
+    "path": "/news-article/dola-submits-preliminary-co-residential-property-tax-assessment-rate-study",
+    "score": 0.98
+  },
+  {
+    "path": "/news-article/the-department-of-local-affairs-distributes-over-125-million-in-conservation-trust",
+    "score": 0.98
+  },
+  {
+    "path": "/news-article/the-department-of-local-affairs-distributes-over-13-million-in-conservation-trust",
+    "score": 0.98
+  },
+  {
+    "path": "/noncongregate-sheltering",
+    "score": 0.95
+  },
+  {
+    "path": "/notice-of-funding-availability-community-development-block-grant-cbdo-certification",
+    "score": 0.96
+  },
+  {
+    "path": "/nsp1-substantial-amendment",
+    "score": 0.97
+  },
+  {
+    "path": "/nsp3-grant-closed",
+    "score": 0.97
+  },
+  {
+    "path": "/office-housing-finance-sustainability",
+    "score": 0.95
+  },
+  {
+    "path": "/office-of-homeless-initiatives",
+    "score": 0.95
+  },
+  {
+    "path": "/office-of-homeless-initiatives/fort-lyon-supportive-residential-community/fort-lyon-press",
+    "score": 0.97
+  },
+  {
+    "path": "/office-of-homeless-initiatives/programs",
+    "score": 0.97
+  },
+  {
+    "path": "/office-of-homeless-youth-services",
+    "score": 0.97
+  },
+  {
+    "path": "/office-of-housing-finance-sustainability/contractor-partner-agencies-resources",
+    "score": 0.95
+  },
+  {
+    "path": "/office-of-housing-finance-sustainability/contractor-partner-agencies-resources/forms-guidance",
+    "score": 0.93
+  },
+  {
+    "path": "/office-of-housing-finance-sustainability/contractor-partner-agencies-resources/rental-homeownership",
+    "score": 0.95
+  },
+  {
+    "path": "/office-of-housing-finance-sustainability/contractor-partner-agencies-resources/training",
+    "score": 0.95
+  },
+  {
+    "path": "/office-of-housing-finance-sustainability/funding-application",
+    "score": 0.96
+  },
+  {
+    "path": "/office-of-housing-finance-sustainability/funding-sources",
+    "score": 0.97
+  },
+  {
+    "path": "/office-of-housing-finance-sustainability/inventory-of-nondeveloped-state-owned-land",
+    "score": 0.97
+  },
+  {
+    "path": "/office-of-housing-finance-sustainability/types-of-programs-we-fund",
+    "score": 0.97
+  },
+  {
+    "path": "/office-of-regulatory-oversight",
+    "score": 0.95
+  },
+  {
+    "path": "/office-of-regulatory-oversight/building-codes-and-standards",
+    "score": 0.92
+  },
+  {
+    "path": "/office-of-regulatory-oversight/building-codes-and-standards/manufactured-housing-consumer",
+    "score": 0.97
+  },
+  {
+    "path": "/office-of-regulatory-oversight/mobile-home-park-oversight-program/quejas-sobre-el-parque-de-casas",
+    "score": 0.94
+  },
+  {
+    "path": "/office-of-rental-assistance",
+    "score": 0.95
+  },
+  {
+    "path": "/office-of-rental-assistance/contractor-resources",
+    "score": 0.97
+  },
+  {
+    "path": "/office-of-rental-assistance/contractor-resources/rental-assistance-programs-forms",
+    "score": 0.95
+  },
+  {
+    "path": "/office-of-rental-assistance/contractor-resources/schedules",
+    "score": 0.97
+  },
+  {
+    "path": "/office-of-rental-assistance/contractor-resources/tools-for-contractors",
+    "score": 0.98
+  },
+  {
+    "path": "/office-of-rental-assistance/contractor-resources/training",
+    "score": 0.97
+  },
+  {
+    "path": "/office-of-rental-assistance/for-landlords",
+    "score": 0.97
+  },
+  {
+    "path": "/office-of-rental-assistance/housing-voucher-programs",
+    "score": 0.97
+  },
+  {
+    "path": "/office-of-rental-assistance/section-8-participants",
+    "score": 0.97
+  },
+  {
+    "path": "/open-request-applications-rfa",
+    "score": 0.97
+  },
+  {
+    "path": "/our-culture",
+    "score": 0.95
+  },
+  {
+    "path": "/our-services",
+    "score": 0.95
+  },
+  {
+    "path": "/POP-documents",
+    "score": 0.97
+  },
+  {
+    "path": "/press-release/colorado-department-of-local-affairs-announces-new-main-street-community",
+    "score": 0.97
+  },
+  {
+    "path": "/press-release/colorado-department-of-local-affairs-announces-new-main-street-community-0",
+    "score": 0.97
+  },
+  {
+    "path": "/press-release/department-of-local-affairs-allocates-1396m-for-affordable-housing-eviction-0",
+    "score": 0.97
+  },
+  {
+    "path": "/press-release/more-than-44m-has-been-allocated-by-the-department-of-local-affairs-for-affordable",
+    "score": 0.91
+  },
+  {
+    "path": "/press-release/the-department-of-local-affairs-awards-more-than-36m-energy/mineral-impact-grants",
+    "score": 0.97
+  },
+  {
+    "path": "/press-release/the-department-of-local-affairs-launches-the-wind-and-wildfire-home-protection",
+    "score": 0.97
+  },
+  {
+    "path": "/procedures",
+    "score": 0.93
+  },
+  {
+    "path": "/programa-de-asistencia-de-alquiler-de-emergencia",
+    "score": 0.95
+  },
+  {
+    "path": "/programa-de-asistencia-hipotecaria-de-emergencia-de-colorado",
+    "score": 0.95
+  },
+  {
+    "path": "/promotion-resources",
+    "score": 0.97
+  },
+  {
+    "path": "/property-tax-terminology",
+    "score": 0.93
+  },
+  {
+    "path": "/proposition-123-local-government-commitment-workshop",
+    "score": 0.98
+  },
+  {
+    "path": "/public-information",
+    "score": 0.94
+  },
+  {
+    "path": "/publications-handouts",
+    "score": 0.97
+  },
+  {
+    "path": "/publications-reporting",
+    "score": 0.95
+  },
+  {
+    "path": "/publications-reporting/vacancy-rent-surveys",
+    "score": 0.97
+  },
+  {
+    "path": "/rapid-re-housing-next-step-rfa",
+    "score": 0.97
+  },
+  {
+    "path": "/rapid-re-housing-re-entry-rfa",
+    "score": 0.97
+  },
+  {
+    "path": "/rehousing-resources",
+    "score": 0.95
+  },
+  {
+    "path": "/rental-assistance-program",
+    "score": 0.95
+  },
+  {
+    "path": "/renters",
+    "score": 0.97
+  },
+  {
+    "path": "/resilience-planning",
+    "score": 0.97
+  },
+  {
+    "path": "/resilience-planning/resilience-planning-program",
+    "score": 0.95
+  },
+  {
+    "path": "/revolving-loan-fund-programs",
+    "score": 0.95
+  },
+  {
+    "path": "/rule-review-notification-doh",
+    "score": 0.97
+  },
+  {
+    "path": "/rules-rule-review-notification",
+    "score": 0.93
+  },
+  {
+    "path": "/sar-advisory-council",
+    "score": 0.97
+  }
+]

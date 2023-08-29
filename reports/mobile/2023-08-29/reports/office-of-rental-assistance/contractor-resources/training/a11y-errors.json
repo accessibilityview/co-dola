@@ -1,0 +1,72 @@
+[
+  {
+    "id": "heading-order",
+    "title": "Heading elements are not in a sequentially-descending order",
+    "description": "Properly ordered headings that do not skip levels convey the semantic structure of the page, making it easier to navigate and understand when using assistive technologies. [Learn more](https://web.dev/heading-order/).",
+    "score": 0,
+    "scoreDisplayMode": "binary",
+    "details": {
+      "type": "table",
+      "headings": [
+        {
+          "key": "node",
+          "itemType": "node",
+          "subItemsHeading": {
+            "key": "relatedNode",
+            "itemType": "node"
+          },
+          "text": "Failing Elements"
+        }
+      ],
+      "items": [
+        {
+          "node": {
+            "type": "node",
+            "lhId": "13-313-H3",
+            "path": "1,HTML,1,BODY,0,DIV,1,DIV,4,DIV,0,MAIN,0,DIV,2,DIV,1,SECTION,1,DIV,0,ARTICLE,1,DIV,0,DIV,1,H3",
+            "selector": "article.page > div > div.field > h3",
+            "boundingRect": {
+              "top": 1806,
+              "bottom": 1826,
+              "left": 15,
+              "right": 397,
+              "width": 382,
+              "height": 20
+            },
+            "snippet": "<h3>",
+            "nodeLabel": "Webinar Training Series",
+            "explanation": "Fix any of the following:\n  Heading order invalid"
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "13-314-H5",
+            "path": "1,HTML,1,BODY,0,DIV,1,DIV,4,DIV,0,MAIN,0,DIV,2,DIV,1,SECTION,1,DIV,0,ARTICLE,1,DIV,0,DIV,27,H5",
+            "selector": "article.page > div > div.field > h5",
+            "boundingRect": {
+              "top": 3786,
+              "bottom": 3829,
+              "left": 15,
+              "right": 397,
+              "width": 382,
+              "height": 43
+            },
+            "snippet": "<h5>",
+            "nodeLabel": "Colorado Division of Housing HQS Inspector Certification Exam",
+            "explanation": "Fix any of the following:\n  Heading order invalid"
+          }
+        }
+      ],
+      "debugData": {
+        "type": "debugdata",
+        "impact": "moderate",
+        "tags": [
+          "cat.semantics",
+          "best-practice"
+        ]
+      }
+    },
+    "errorCount": 2
+  }
+]

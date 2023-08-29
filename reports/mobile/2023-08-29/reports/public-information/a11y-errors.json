@@ -1,0 +1,212 @@
+[
+  {
+    "id": "color-contrast",
+    "title": "Background and foreground colors do not have a sufficient contrast ratio.",
+    "description": "Low-contrast text is difficult or impossible for many users to read. [Learn more](https://web.dev/color-contrast/).",
+    "score": 0,
+    "scoreDisplayMode": "binary",
+    "details": {
+      "type": "table",
+      "headings": [
+        {
+          "key": "node",
+          "itemType": "node",
+          "subItemsHeading": {
+            "key": "relatedNode",
+            "itemType": "node"
+          },
+          "text": "Failing Elements"
+        }
+      ],
+      "items": [
+        {
+          "node": {
+            "type": "node",
+            "lhId": "13-131-SPAN",
+            "path": "1,HTML,1,BODY,0,DIV,1,DIV,6,MAIN,0,DIV,2,DIV,0,SECTION,2,DIV,0,ARTICLE,0,DIV,2,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,2,P,0,A,0,SPAN",
+            "selector": "div.field > p > a.btn > span.text",
+            "boundingRect": {
+              "top": 3476,
+              "bottom": 3495,
+              "left": 81,
+              "right": 331,
+              "width": 250,
+              "height": 19
+            },
+            "snippet": "<span class=\"text\">",
+            "nodeLabel": "Find My Regional Manager Team",
+            "explanation": "Fix any of the following:\n  Element has insufficient color contrast of 4.22 (foreground color: #35647e, background color: #d0d2d3, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1"
+          },
+          "subItems": {
+            "type": "subitems",
+            "items": [
+              {
+                "relatedNode": {
+                  "type": "node",
+                  "lhId": "13-132-DIV",
+                  "path": "1,HTML,1,BODY,0,DIV,1,DIV,6,MAIN,0,DIV,2,DIV,0,SECTION,2,DIV,0,ARTICLE,0,DIV,2,DIV,0,DIV",
+                  "selector": "article.landing-page > div > div > div.paragraph",
+                  "boundingRect": {
+                    "top": 3237,
+                    "bottom": 4196,
+                    "left": 0,
+                    "right": 412,
+                    "width": 412,
+                    "height": 959
+                  },
+                  "snippet": "<div class=\"paragraph paragraph--type--bp-columns paragraph--view-mode--default color_…\">",
+                  "nodeLabel": "Non-Media Inquiries\n\nEight Regional Managers and four Regional Assistants provi…"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "13-133-SPAN",
+            "path": "1,HTML,1,BODY,0,DIV,1,DIV,6,MAIN,0,DIV,2,DIV,0,SECTION,2,DIV,0,ARTICLE,0,DIV,2,DIV,0,DIV,0,DIV,0,DIV,0,DIV,1,DIV,0,DIV,0,DIV,0,DIV,2,P,0,A,0,SPAN",
+            "selector": "div.field > p > a.btn > span.text",
+            "boundingRect": {
+              "top": 3737,
+              "bottom": 3756,
+              "left": 131,
+              "right": 281,
+              "width": 149,
+              "height": 19
+            },
+            "snippet": "<span class=\"text\">",
+            "nodeLabel": "Engage with DOLA",
+            "explanation": "Fix any of the following:\n  Element has insufficient color contrast of 4.22 (foreground color: #35647e, background color: #d0d2d3, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1"
+          },
+          "subItems": {
+            "type": "subitems",
+            "items": [
+              {
+                "relatedNode": {
+                  "type": "node",
+                  "lhId": "13-132-DIV",
+                  "path": "1,HTML,1,BODY,0,DIV,1,DIV,6,MAIN,0,DIV,2,DIV,0,SECTION,2,DIV,0,ARTICLE,0,DIV,2,DIV,0,DIV",
+                  "selector": "article.landing-page > div > div > div.paragraph",
+                  "boundingRect": {
+                    "top": 3237,
+                    "bottom": 4196,
+                    "left": 0,
+                    "right": 412,
+                    "width": 412,
+                    "height": 959
+                  },
+                  "snippet": "<div class=\"paragraph paragraph--type--bp-columns paragraph--view-mode--default color_…\">",
+                  "nodeLabel": "Non-Media Inquiries\n\nEight Regional Managers and four Regional Assistants provi…"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "13-134-SPAN",
+            "path": "1,HTML,1,BODY,0,DIV,1,DIV,6,MAIN,0,DIV,2,DIV,0,SECTION,2,DIV,0,ARTICLE,0,DIV,2,DIV,0,DIV,0,DIV,0,DIV,0,DIV,2,DIV,0,DIV,0,DIV,0,DIV,2,P,0,A,0,SPAN",
+            "selector": "div.field > p > a.btn > span.text",
+            "boundingRect": {
+              "top": 4117,
+              "bottom": 4136,
+              "left": 77,
+              "right": 335,
+              "width": 259,
+              "height": 19
+            },
+            "snippet": "<span class=\"text\">",
+            "nodeLabel": "Submit an Open Records Request",
+            "explanation": "Fix any of the following:\n  Element has insufficient color contrast of 4.22 (foreground color: #35647e, background color: #d0d2d3, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1"
+          },
+          "subItems": {
+            "type": "subitems",
+            "items": [
+              {
+                "relatedNode": {
+                  "type": "node",
+                  "lhId": "13-132-DIV",
+                  "path": "1,HTML,1,BODY,0,DIV,1,DIV,6,MAIN,0,DIV,2,DIV,0,SECTION,2,DIV,0,ARTICLE,0,DIV,2,DIV,0,DIV",
+                  "selector": "article.landing-page > div > div > div.paragraph",
+                  "boundingRect": {
+                    "top": 3237,
+                    "bottom": 4196,
+                    "left": 0,
+                    "right": 412,
+                    "width": 412,
+                    "height": 959
+                  },
+                  "snippet": "<div class=\"paragraph paragraph--type--bp-columns paragraph--view-mode--default color_…\">",
+                  "nodeLabel": "Non-Media Inquiries\n\nEight Regional Managers and four Regional Assistants provi…"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "debugData": {
+        "type": "debugdata",
+        "impact": "serious",
+        "tags": [
+          "cat.color",
+          "wcag2aa",
+          "wcag143"
+        ]
+      }
+    },
+    "errorCount": 3
+  },
+  {
+    "id": "heading-order",
+    "title": "Heading elements are not in a sequentially-descending order",
+    "description": "Properly ordered headings that do not skip levels convey the semantic structure of the page, making it easier to navigate and understand when using assistive technologies. [Learn more](https://web.dev/heading-order/).",
+    "score": 0,
+    "scoreDisplayMode": "binary",
+    "details": {
+      "type": "table",
+      "headings": [
+        {
+          "key": "node",
+          "itemType": "node",
+          "subItemsHeading": {
+            "key": "relatedNode",
+            "itemType": "node"
+          },
+          "text": "Failing Elements"
+        }
+      ],
+      "items": [
+        {
+          "node": {
+            "type": "node",
+            "lhId": "13-135-H4",
+            "path": "1,HTML,1,BODY,0,DIV,1,DIV,6,MAIN,0,DIV,2,DIV,0,SECTION,2,DIV,0,ARTICLE,0,DIV,1,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,1,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,1,DIV,0,H4",
+            "selector": "div.view-content > div.views-row > div.views-field > h4.field-content",
+            "boundingRect": {
+              "top": 1315,
+              "bottom": 1438,
+              "left": 54,
+              "right": 371,
+              "width": 317,
+              "height": 123
+            },
+            "snippet": "<h4 class=\"field-content text-2xl fw-500\">",
+            "nodeLabel": "The Department of Local Affairs Awards More Than $36M Energy/Mineral Impact Gra…",
+            "explanation": "Fix any of the following:\n  Heading order invalid"
+          }
+        }
+      ],
+      "debugData": {
+        "type": "debugdata",
+        "impact": "moderate",
+        "tags": [
+          "cat.semantics",
+          "best-practice"
+        ]
+      }
+    },
+    "errorCount": 1
+  }
+]

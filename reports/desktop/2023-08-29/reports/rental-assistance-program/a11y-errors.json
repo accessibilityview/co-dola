@@ -1,0 +1,170 @@
+[
+  {
+    "id": "color-contrast",
+    "title": "Background and foreground colors do not have a sufficient contrast ratio.",
+    "description": "Low-contrast text is difficult or impossible for many users to read. [Learn more](https://web.dev/color-contrast/).",
+    "score": 0,
+    "scoreDisplayMode": "binary",
+    "details": {
+      "type": "table",
+      "headings": [
+        {
+          "key": "node",
+          "itemType": "node",
+          "subItemsHeading": {
+            "key": "relatedNode",
+            "itemType": "node"
+          },
+          "text": "Failing Elements"
+        }
+      ],
+      "items": [
+        {
+          "node": {
+            "type": "node",
+            "lhId": "13-114-SPAN",
+            "path": "1,HTML,1,BODY,0,DIV,1,DIV,5,MAIN,0,DIV,2,DIV,0,SECTION,2,DIV,0,ARTICLE,0,DIV,1,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,10,P,0,A,0,SPAN",
+            "selector": "div.field > p > a.btn > span.text",
+            "boundingRect": {
+              "top": 998,
+              "bottom": 1017,
+              "left": 37,
+              "right": 392,
+              "width": 355,
+              "height": 19
+            },
+            "snippet": "<span class=\"text\">",
+            "nodeLabel": "Example of what is Forcible Entry and Detainer",
+            "explanation": "Fix any of the following:\n  Element has insufficient color contrast of 4.22 (foreground color: #35647e, background color: #d0d2d3, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1"
+          },
+          "subItems": {
+            "type": "subitems",
+            "items": [
+              {
+                "relatedNode": {
+                  "type": "node",
+                  "lhId": "13-115-DIV",
+                  "path": "1,HTML,1,BODY,0,DIV,1,DIV,5,MAIN,0,DIV,2,DIV,0,SECTION,2,DIV,0,ARTICLE,0,DIV,1,DIV,0,DIV",
+                  "selector": "article.landing-page > div > div > div.paragraph",
+                  "boundingRect": {
+                    "top": 432,
+                    "bottom": 1393,
+                    "left": 0,
+                    "right": 1350,
+                    "width": 1350,
+                    "height": 961
+                  },
+                  "snippet": "<div class=\"paragraph paragraph--type--bp-columns paragraph--view-mode--default color_…\">",
+                  "nodeLabel": "As of November 15, 2022, the Colorado Emergency Rental Assistance Program has s…"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "13-116-SPAN",
+            "path": "1,HTML,1,BODY,0,DIV,1,DIV,5,MAIN,0,DIV,2,DIV,0,SECTION,2,DIV,0,ARTICLE,0,DIV,1,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,12,P,0,A,0,SPAN",
+            "selector": "div.field > p > a.btn > span.text",
+            "boundingRect": {
+              "top": 1108,
+              "bottom": 1127,
+              "left": 37,
+              "right": 258,
+              "width": 221,
+              "height": 19
+            },
+            "snippet": "<span class=\"text\">",
+            "nodeLabel": "CARE Center Welcome Page",
+            "explanation": "Fix any of the following:\n  Element has insufficient color contrast of 4.22 (foreground color: #35647e, background color: #d0d2d3, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1"
+          },
+          "subItems": {
+            "type": "subitems",
+            "items": [
+              {
+                "relatedNode": {
+                  "type": "node",
+                  "lhId": "13-115-DIV",
+                  "path": "1,HTML,1,BODY,0,DIV,1,DIV,5,MAIN,0,DIV,2,DIV,0,SECTION,2,DIV,0,ARTICLE,0,DIV,1,DIV,0,DIV",
+                  "selector": "article.landing-page > div > div > div.paragraph",
+                  "boundingRect": {
+                    "top": 432,
+                    "bottom": 1393,
+                    "left": 0,
+                    "right": 1350,
+                    "width": 1350,
+                    "height": 961
+                  },
+                  "snippet": "<div class=\"paragraph paragraph--type--bp-columns paragraph--view-mode--default color_…\">",
+                  "nodeLabel": "As of November 15, 2022, the Colorado Emergency Rental Assistance Program has s…"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "debugData": {
+        "type": "debugdata",
+        "impact": "serious",
+        "tags": [
+          "cat.color",
+          "wcag2aa",
+          "wcag143"
+        ]
+      }
+    },
+    "errorCount": 2
+  },
+  {
+    "id": "heading-order",
+    "title": "Heading elements are not in a sequentially-descending order",
+    "description": "Properly ordered headings that do not skip levels convey the semantic structure of the page, making it easier to navigate and understand when using assistive technologies. [Learn more](https://web.dev/heading-order/).",
+    "score": 0,
+    "scoreDisplayMode": "binary",
+    "details": {
+      "type": "table",
+      "headings": [
+        {
+          "key": "node",
+          "itemType": "node",
+          "subItemsHeading": {
+            "key": "relatedNode",
+            "itemType": "node"
+          },
+          "text": "Failing Elements"
+        }
+      ],
+      "items": [
+        {
+          "node": {
+            "type": "node",
+            "lhId": "13-117-H6",
+            "path": "1,HTML,1,BODY,0,DIV,1,DIV,5,MAIN,0,DIV,2,DIV,0,SECTION,2,DIV,0,ARTICLE,0,DIV,1,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,1,H6",
+            "selector": "div.paragraph__card > div.paragraph__column > div.field > h6",
+            "boundingRect": {
+              "top": 502,
+              "bottom": 535,
+              "left": 24,
+              "right": 1326,
+              "width": 1302,
+              "height": 33
+            },
+            "snippet": "<h6>",
+            "nodeLabel": "Important Dates",
+            "explanation": "Fix any of the following:\n  Heading order invalid"
+          }
+        }
+      ],
+      "debugData": {
+        "type": "debugdata",
+        "impact": "moderate",
+        "tags": [
+          "cat.semantics",
+          "best-practice"
+        ]
+      }
+    },
+    "errorCount": 1
+  }
+]

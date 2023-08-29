@@ -1,0 +1,506 @@
+[
+  {
+    "id": "color-contrast",
+    "title": "Background and foreground colors do not have a sufficient contrast ratio.",
+    "description": "Low-contrast text is difficult or impossible for many users to read. [Learn more](https://web.dev/color-contrast/).",
+    "score": 0,
+    "scoreDisplayMode": "binary",
+    "details": {
+      "type": "table",
+      "headings": [
+        {
+          "key": "node",
+          "itemType": "node",
+          "subItemsHeading": {
+            "key": "relatedNode",
+            "itemType": "node"
+          },
+          "text": "Failing Elements"
+        }
+      ],
+      "items": [
+        {
+          "node": {
+            "type": "node",
+            "lhId": "13-175-SPAN",
+            "path": "1,HTML,1,BODY,0,DIV,1,DIV,5,DIV,0,MAIN,0,DIV,2,DIV,1,SECTION,1,DIV,0,ARTICLE,1,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,2,TABLE,0,TBODY,1,TR,1,TD,0,SPAN,0,SPAN,0,A,0,SPAN",
+            "selector": "span > span > a > span",
+            "boundingRect": {
+              "top": 568,
+              "bottom": 586,
+              "left": 845,
+              "right": 881,
+              "width": 36,
+              "height": 19
+            },
+            "snippet": "<span style=\"color:#2e74b5\">",
+            "nodeLabel": "CHFA",
+            "explanation": "Fix any of the following:\n  Element has insufficient color contrast of 4.35 (foreground color: #2e74b5, background color: #edf2f7, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1"
+          },
+          "subItems": {
+            "type": "subitems",
+            "items": [
+              {
+                "relatedNode": {
+                  "type": "node",
+                  "lhId": "13-176-TR",
+                  "path": "1,HTML,1,BODY,0,DIV,1,DIV,5,DIV,0,MAIN,0,DIV,2,DIV,1,SECTION,1,DIV,0,ARTICLE,1,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,2,TABLE,0,TBODY,1,TR",
+                  "selector": "div.field > table > tbody > tr",
+                  "boundingRect": {
+                    "top": 555,
+                    "bottom": 599,
+                    "left": 377,
+                    "right": 1311,
+                    "width": 934,
+                    "height": 44
+                  },
+                  "snippet": "<tr>",
+                  "nodeLabel": "CDBG\tCHFA\tCDOH HOME"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "13-177-SPAN",
+            "path": "1,HTML,1,BODY,0,DIV,1,DIV,5,DIV,0,MAIN,0,DIV,2,DIV,1,SECTION,1,DIV,0,ARTICLE,1,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,2,TABLE,0,TBODY,1,TR,2,TD,0,SPAN,0,SPAN,0,A,0,SPAN",
+            "selector": "span > span > a > span",
+            "boundingRect": {
+              "top": 568,
+              "bottom": 586,
+              "left": 1114,
+              "right": 1201,
+              "width": 87,
+              "height": 19
+            },
+            "snippet": "<span style=\"color:#2e74b5\">",
+            "nodeLabel": "CDOH HOME",
+            "explanation": "Fix any of the following:\n  Element has insufficient color contrast of 4.35 (foreground color: #2e74b5, background color: #edf2f7, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1"
+          },
+          "subItems": {
+            "type": "subitems",
+            "items": [
+              {
+                "relatedNode": {
+                  "type": "node",
+                  "lhId": "13-176-TR",
+                  "path": "1,HTML,1,BODY,0,DIV,1,DIV,5,DIV,0,MAIN,0,DIV,2,DIV,1,SECTION,1,DIV,0,ARTICLE,1,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,2,TABLE,0,TBODY,1,TR",
+                  "selector": "div.field > table > tbody > tr",
+                  "boundingRect": {
+                    "top": 555,
+                    "bottom": 599,
+                    "left": 377,
+                    "right": 1311,
+                    "width": 934,
+                    "height": 44
+                  },
+                  "snippet": "<tr>",
+                  "nodeLabel": "CDBG\tCHFA\tCDOH HOME"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "13-178-SPAN",
+            "path": "1,HTML,1,BODY,0,DIV,1,DIV,5,DIV,0,MAIN,0,DIV,2,DIV,1,SECTION,1,DIV,0,ARTICLE,1,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,2,TABLE,0,TBODY,3,TR,1,TD,0,SPAN,0,SPAN,0,A,0,SPAN",
+            "selector": "span > span > a > span",
+            "boundingRect": {
+              "top": 656,
+              "bottom": 674,
+              "left": 849,
+              "right": 877,
+              "width": 28,
+              "height": 19
+            },
+            "snippet": "<span style=\"color:#2e74b5\">",
+            "nodeLabel": "HTF",
+            "explanation": "Fix any of the following:\n  Element has insufficient color contrast of 4.35 (foreground color: #2e74b5, background color: #edf2f7, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1"
+          },
+          "subItems": {
+            "type": "subitems",
+            "items": [
+              {
+                "relatedNode": {
+                  "type": "node",
+                  "lhId": "13-179-TR",
+                  "path": "1,HTML,1,BODY,0,DIV,1,DIV,5,DIV,0,MAIN,0,DIV,2,DIV,1,SECTION,1,DIV,0,ARTICLE,1,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,2,TABLE,0,TBODY,3,TR",
+                  "selector": "div.field > table > tbody > tr",
+                  "boundingRect": {
+                    "top": 643,
+                    "bottom": 687,
+                    "left": 377,
+                    "right": 1311,
+                    "width": 934,
+                    "height": 44
+                  },
+                  "snippet": "<tr>",
+                  "nodeLabel": "HTF\tHTF\tHTF"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "13-180-SPAN",
+            "path": "1,HTML,1,BODY,0,DIV,1,DIV,5,DIV,0,MAIN,0,DIV,2,DIV,1,SECTION,1,DIV,0,ARTICLE,1,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,2,TABLE,0,TBODY,3,TR,2,TD,0,SPAN,0,SPAN,0,A,0,SPAN",
+            "selector": "span > span > a > span",
+            "boundingRect": {
+              "top": 656,
+              "bottom": 674,
+              "left": 1143,
+              "right": 1172,
+              "width": 28,
+              "height": 19
+            },
+            "snippet": "<span style=\"color:#2e74b5\">",
+            "nodeLabel": "HTF",
+            "explanation": "Fix any of the following:\n  Element has insufficient color contrast of 4.35 (foreground color: #2e74b5, background color: #edf2f7, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1"
+          },
+          "subItems": {
+            "type": "subitems",
+            "items": [
+              {
+                "relatedNode": {
+                  "type": "node",
+                  "lhId": "13-179-TR",
+                  "path": "1,HTML,1,BODY,0,DIV,1,DIV,5,DIV,0,MAIN,0,DIV,2,DIV,1,SECTION,1,DIV,0,ARTICLE,1,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,2,TABLE,0,TBODY,3,TR",
+                  "selector": "div.field > table > tbody > tr",
+                  "boundingRect": {
+                    "top": 643,
+                    "bottom": 687,
+                    "left": 377,
+                    "right": 1311,
+                    "width": 934,
+                    "height": 44
+                  },
+                  "snippet": "<tr>",
+                  "nodeLabel": "HTF\tHTF\tHTF"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "13-181-SPAN",
+            "path": "1,HTML,1,BODY,0,DIV,1,DIV,5,DIV,0,MAIN,0,DIV,2,DIV,1,SECTION,1,DIV,0,ARTICLE,1,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,2,TABLE,0,TBODY,5,TR,1,TD,0,SPAN,0,SPAN,0,A,0,SPAN",
+            "selector": "span > span > a > span",
+            "boundingRect": {
+              "top": 744,
+              "bottom": 762,
+              "left": 845,
+              "right": 881,
+              "width": 36,
+              "height": 19
+            },
+            "snippet": "<span style=\"color:#2e74b5\">",
+            "nodeLabel": "CHFA",
+            "explanation": "Fix any of the following:\n  Element has insufficient color contrast of 4.35 (foreground color: #2e74b5, background color: #edf2f7, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1"
+          },
+          "subItems": {
+            "type": "subitems",
+            "items": [
+              {
+                "relatedNode": {
+                  "type": "node",
+                  "lhId": "13-182-TR",
+                  "path": "1,HTML,1,BODY,0,DIV,1,DIV,5,DIV,0,MAIN,0,DIV,2,DIV,1,SECTION,1,DIV,0,ARTICLE,1,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,2,TABLE,0,TBODY,5,TR",
+                  "selector": "div.field > table > tbody > tr",
+                  "boundingRect": {
+                    "top": 731,
+                    "bottom": 775,
+                    "left": 377,
+                    "right": 1311,
+                    "width": 934,
+                    "height": 44
+                  },
+                  "snippet": "<tr>",
+                  "nodeLabel": "NSP\tCHFA\tNSP"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "13-183-SPAN",
+            "path": "1,HTML,1,BODY,0,DIV,1,DIV,5,DIV,0,MAIN,0,DIV,2,DIV,1,SECTION,1,DIV,0,ARTICLE,1,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,2,TABLE,0,TBODY,5,TR,2,TD,0,SPAN,0,SPAN,0,A,0,SPAN",
+            "selector": "span > span > a > span",
+            "boundingRect": {
+              "top": 744,
+              "bottom": 762,
+              "left": 1144,
+              "right": 1171,
+              "width": 27,
+              "height": 19
+            },
+            "snippet": "<span style=\"color:#2e74b5\">",
+            "nodeLabel": "NSP",
+            "explanation": "Fix any of the following:\n  Element has insufficient color contrast of 4.35 (foreground color: #2e74b5, background color: #edf2f7, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1"
+          },
+          "subItems": {
+            "type": "subitems",
+            "items": [
+              {
+                "relatedNode": {
+                  "type": "node",
+                  "lhId": "13-182-TR",
+                  "path": "1,HTML,1,BODY,0,DIV,1,DIV,5,DIV,0,MAIN,0,DIV,2,DIV,1,SECTION,1,DIV,0,ARTICLE,1,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,2,TABLE,0,TBODY,5,TR",
+                  "selector": "div.field > table > tbody > tr",
+                  "boundingRect": {
+                    "top": 731,
+                    "bottom": 775,
+                    "left": 377,
+                    "right": 1311,
+                    "width": 934,
+                    "height": 44
+                  },
+                  "snippet": "<tr>",
+                  "nodeLabel": "NSP\tCHFA\tNSP"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "13-184-SPAN",
+            "path": "1,HTML,1,BODY,0,DIV,1,DIV,5,DIV,0,MAIN,0,DIV,2,DIV,1,SECTION,1,DIV,0,ARTICLE,1,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,2,TABLE,0,TBODY,7,TR,1,TD,0,SPAN,0,SPAN,0,A,0,SPAN",
+            "selector": "span > span > a > span",
+            "boundingRect": {
+              "top": 832,
+              "bottom": 850,
+              "left": 845,
+              "right": 881,
+              "width": 36,
+              "height": 19
+            },
+            "snippet": "<span style=\"color:#2e74b5\">",
+            "nodeLabel": "CHFA",
+            "explanation": "Fix any of the following:\n  Element has insufficient color contrast of 4.35 (foreground color: #2e74b5, background color: #edf2f7, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1"
+          },
+          "subItems": {
+            "type": "subitems",
+            "items": [
+              {
+                "relatedNode": {
+                  "type": "node",
+                  "lhId": "13-185-TR",
+                  "path": "1,HTML,1,BODY,0,DIV,1,DIV,5,DIV,0,MAIN,0,DIV,2,DIV,1,SECTION,1,DIV,0,ARTICLE,1,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,2,TABLE,0,TBODY,7,TR",
+                  "selector": "div.field > table > tbody > tr",
+                  "boundingRect": {
+                    "top": 819,
+                    "bottom": 863,
+                    "left": 377,
+                    "right": 1311,
+                    "width": 934,
+                    "height": 44
+                  },
+                  "snippet": "<tr>",
+                  "nodeLabel": "HDG\tCHFA\tCHFA"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "13-186-SPAN",
+            "path": "1,HTML,1,BODY,0,DIV,1,DIV,5,DIV,0,MAIN,0,DIV,2,DIV,1,SECTION,1,DIV,0,ARTICLE,1,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,2,TABLE,0,TBODY,7,TR,2,TD,0,SPAN,0,SPAN,0,A,0,SPAN",
+            "selector": "span > span > a > span",
+            "boundingRect": {
+              "top": 832,
+              "bottom": 850,
+              "left": 1139,
+              "right": 1176,
+              "width": 36,
+              "height": 19
+            },
+            "snippet": "<span style=\"color:#2e74b5\">",
+            "nodeLabel": "CHFA",
+            "explanation": "Fix any of the following:\n  Element has insufficient color contrast of 4.35 (foreground color: #2e74b5, background color: #edf2f7, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1"
+          },
+          "subItems": {
+            "type": "subitems",
+            "items": [
+              {
+                "relatedNode": {
+                  "type": "node",
+                  "lhId": "13-185-TR",
+                  "path": "1,HTML,1,BODY,0,DIV,1,DIV,5,DIV,0,MAIN,0,DIV,2,DIV,1,SECTION,1,DIV,0,ARTICLE,1,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,2,TABLE,0,TBODY,7,TR",
+                  "selector": "div.field > table > tbody > tr",
+                  "boundingRect": {
+                    "top": 819,
+                    "bottom": 863,
+                    "left": 377,
+                    "right": 1311,
+                    "width": 934,
+                    "height": 44
+                  },
+                  "snippet": "<tr>",
+                  "nodeLabel": "HDG\tCHFA\tCHFA"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "13-187-SPAN",
+            "path": "1,HTML,1,BODY,0,DIV,1,DIV,5,DIV,0,MAIN,0,DIV,2,DIV,1,SECTION,1,DIV,0,ARTICLE,1,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,2,TABLE,0,TBODY,9,TR,1,TD,0,SPAN,0,SPAN,0,A,0,SPAN",
+            "selector": "span > span > a > span",
+            "boundingRect": {
+              "top": 920,
+              "bottom": 938,
+              "left": 845,
+              "right": 881,
+              "width": 36,
+              "height": 19
+            },
+            "snippet": "<span style=\"color:#2e74b5\">",
+            "nodeLabel": "CHFA",
+            "explanation": "Fix any of the following:\n  Element has insufficient color contrast of 4.35 (foreground color: #2e74b5, background color: #edf2f7, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1"
+          },
+          "subItems": {
+            "type": "subitems",
+            "items": [
+              {
+                "relatedNode": {
+                  "type": "node",
+                  "lhId": "13-188-TR",
+                  "path": "1,HTML,1,BODY,0,DIV,1,DIV,5,DIV,0,MAIN,0,DIV,2,DIV,1,SECTION,1,DIV,0,ARTICLE,1,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,2,TABLE,0,TBODY,9,TR",
+                  "selector": "div.field > table > tbody > tr",
+                  "boundingRect": {
+                    "top": 907,
+                    "bottom": 952,
+                    "left": 377,
+                    "right": 1311,
+                    "width": 934,
+                    "height": 45
+                  },
+                  "snippet": "<tr>",
+                  "nodeLabel": "CHIF\tCHFA\tCHFA"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "13-189-SPAN",
+            "path": "1,HTML,1,BODY,0,DIV,1,DIV,5,DIV,0,MAIN,0,DIV,2,DIV,1,SECTION,1,DIV,0,ARTICLE,1,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,2,TABLE,0,TBODY,9,TR,2,TD,0,SPAN,0,SPAN,0,A,0,SPAN",
+            "selector": "span > span > a > span",
+            "boundingRect": {
+              "top": 920,
+              "bottom": 938,
+              "left": 1139,
+              "right": 1176,
+              "width": 36,
+              "height": 19
+            },
+            "snippet": "<span style=\"color:#2e74b5\">",
+            "nodeLabel": "CHFA",
+            "explanation": "Fix any of the following:\n  Element has insufficient color contrast of 4.35 (foreground color: #2e74b5, background color: #edf2f7, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1"
+          },
+          "subItems": {
+            "type": "subitems",
+            "items": [
+              {
+                "relatedNode": {
+                  "type": "node",
+                  "lhId": "13-188-TR",
+                  "path": "1,HTML,1,BODY,0,DIV,1,DIV,5,DIV,0,MAIN,0,DIV,2,DIV,1,SECTION,1,DIV,0,ARTICLE,1,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,2,TABLE,0,TBODY,9,TR",
+                  "selector": "div.field > table > tbody > tr",
+                  "boundingRect": {
+                    "top": 907,
+                    "bottom": 952,
+                    "left": 377,
+                    "right": 1311,
+                    "width": 934,
+                    "height": 45
+                  },
+                  "snippet": "<tr>",
+                  "nodeLabel": "CHIF\tCHFA\tCHFA"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "debugData": {
+        "type": "debugdata",
+        "impact": "serious",
+        "tags": [
+          "cat.color",
+          "wcag2aa",
+          "wcag143"
+        ]
+      }
+    },
+    "errorCount": 10
+  },
+  {
+    "id": "heading-order",
+    "title": "Heading elements are not in a sequentially-descending order",
+    "description": "Properly ordered headings that do not skip levels convey the semantic structure of the page, making it easier to navigate and understand when using assistive technologies. [Learn more](https://web.dev/heading-order/).",
+    "score": 0,
+    "scoreDisplayMode": "binary",
+    "details": {
+      "type": "table",
+      "headings": [
+        {
+          "key": "node",
+          "itemType": "node",
+          "subItemsHeading": {
+            "key": "relatedNode",
+            "itemType": "node"
+          },
+          "text": "Failing Elements"
+        }
+      ],
+      "items": [
+        {
+          "node": {
+            "type": "node",
+            "lhId": "13-190-H3",
+            "path": "1,HTML,1,BODY,0,DIV,1,DIV,6,FOOTER,0,DIV,0,DIV,0,DIV,0,SECTION,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,H3",
+            "selector": "div.paragraph__card > div.paragraph__column > div.paragraph__title > h3.mt-0",
+            "boundingRect": {
+              "top": 1988,
+              "bottom": 2034,
+              "left": 15,
+              "right": 440,
+              "width": 425,
+              "height": 46
+            },
+            "snippet": "<h3 class=\"mt-0 mb-0\">",
+            "nodeLabel": "The Department of Local Affairs (DOLA) ",
+            "explanation": "Fix any of the following:\n  Heading order invalid"
+          }
+        }
+      ],
+      "debugData": {
+        "type": "debugdata",
+        "impact": "moderate",
+        "tags": [
+          "cat.semantics",
+          "best-practice"
+        ]
+      }
+    },
+    "errorCount": 1
+  }
+]
