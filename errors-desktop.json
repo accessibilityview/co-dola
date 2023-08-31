@@ -1,0 +1,6208 @@
+[
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "/",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 2
+      }
+    ],
+    "lighthouseErrorCount": 2,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "/",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 2
+      }
+    ],
+    "lighthouseErrorCount": 2,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "2009-energy-codes",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "2009-iecc-resource-documents",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "2012-energy-codes",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "2012-iecc-resource-documents",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "2015-energy-codes",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "2016-tenant-based-rental-assistance-rfa",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "2015-iecc-resource-documents",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "2018-permanent-supportive-housing-program-rfa",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "2022-annual-report-overview-emergency-mortgage-assistance-program",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "2022-summer-engagement-outreach-division-of-housing",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "POP-documents",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "EDI",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "about-dola",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "action-plans-required-reports",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "appeal-of-your-valuation-reminder",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "assessment-appeals-processes",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "assessment-appeals",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "board-adjustment-workshop",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "balance-of-state-continuum-of-care",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "board-of-assessment-appeals-case-search",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "board-of-assessment-appeals-baa-board-members",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "board-of-assessment-appeals-forms",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "boulder-county-collaborative",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "building-energy-codes",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "calendar",
+    "lighthouseErrors": [
+      {
+        "id": "frame-title",
+        "wcag": [
+          "2.4.1",
+          "4.1.2"
+        ],
+        "errorCount": 1
+      },
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 2,
+    "wcagErrors": [
+      {
+        "id": "2.4.1",
+        "lighthouse": "frame-title",
+        "errorCount": 1
+      },
+      {
+        "id": "4.1.2",
+        "lighthouse": "frame-title",
+        "errorCount": 1
+      }
+    ],
+    "wcagErrorCount": 2
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "brownfields",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "changes-to-the-housing-recovery-program",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "colorado-energy-code-compliance-collaborative",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "colorado-department-of-local-affairs-awards-more-than-18m",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "colorado-housing-investment-fund-chif",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "community-access-team",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "colorado-springs-vacancy-rent-survey-data",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "community-housing-development-organizations-chdo",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "contact",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "denver-metro-area-vacancy-rent-survey-data",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "cora",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "disaster-recovery-housing-purchase-down-payment-assistance",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "disaster-recovery-clearance-demolition-program",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "disaster-recovery-home-access",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "disaster-recovery-housing-repairs-single-family-rehabilitation",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "disaster-recovery-temporary-rental-assistance-and-relocation",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "document-portal",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "division-overview",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "division-of-housing-is-celebrating-national-community-development-week",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "dola-accessibility-support",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "economic-recovery",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "emergency-mortgage-assistance",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      },
+      {
+        "id": "image-alt",
+        "wcag": [
+          "1.1.1"
+        ],
+        "errorCount": 1
+      },
+      {
+        "id": "link-name",
+        "wcag": [
+          "2.4.4",
+          "4.1.2"
+        ],
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 3,
+    "wcagErrors": [
+      {
+        "id": "1.1.1",
+        "lighthouse": "image-alt",
+        "errorCount": 1
+      },
+      {
+        "id": "2.4.4",
+        "lighthouse": "link-name",
+        "errorCount": 1
+      },
+      {
+        "id": "4.1.2",
+        "lighthouse": "link-name",
+        "errorCount": 1
+      }
+    ],
+    "wcagErrorCount": 3
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "early-childhood-education-health-funding",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "draft-ctf-estimates",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "executive-directors-office",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "energy-codes-interactive-presentations",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "emergency-solutions-grant-esg-program",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "eviction-foreclosure-protection",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "filing-fees",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "factor-weights",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "fair-housing-resources",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "financial-assistance-county-totals-lookup",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "forms-housing-choice-voucher-contractors",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "foreclosures-in-colorado",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "fort-lyon-profiles-dv",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "fort-lyon-profiles-rd",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "fort-lyon-gallery",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "fort-lyon-profiles-wlty",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "fort-lyon-profiles-kv",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "fortlyon",
+    "lighthouseErrors": [
+      {
+        "id": "frame-title",
+        "wcag": [
+          "2.4.1",
+          "4.1.2"
+        ],
+        "errorCount": 1
+      },
+      {
+        "id": "link-name",
+        "wcag": [
+          "2.4.4",
+          "4.1.2"
+        ],
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 2,
+    "wcagErrors": [
+      {
+        "id": "2.4.1",
+        "lighthouse": "frame-title",
+        "errorCount": 1
+      },
+      {
+        "id": "4.1.2",
+        "lighthouse": "frame-title",
+        "errorCount": 1
+      },
+      {
+        "id": "2.4.4",
+        "lighthouse": "link-name",
+        "errorCount": 1
+      },
+      {
+        "id": "4.1.2",
+        "lighthouse": "link-name",
+        "errorCount": 1
+      }
+    ],
+    "wcagErrorCount": 4
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "fortlyon-covid19",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "fraud-prevention",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "fortlyon-resident-stories",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "grantee-resources",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "glossary",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "gaming-impact-grant-forms",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "hearing-schedules",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "hctc",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 3
+      }
+    ],
+    "lighthouseErrorCount": 3,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "home",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 2
+      }
+    ],
+    "lighthouseErrorCount": 2,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "home-program",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "home-rent-income-limits",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      },
+      {
+        "id": "link-name",
+        "wcag": [
+          "2.4.4",
+          "4.1.2"
+        ],
+        "errorCount": 2
+      }
+    ],
+    "lighthouseErrorCount": 3,
+    "wcagErrors": [
+      {
+        "id": "2.4.4",
+        "lighthouse": "link-name",
+        "errorCount": 2
+      },
+      {
+        "id": "4.1.2",
+        "lighthouse": "link-name",
+        "errorCount": 2
+      }
+    ],
+    "wcagErrorCount": 4
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "homeless-and-runaway-youth-awareness-month",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "homeless-prevention-activities-program",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "homebuyers-homeowners",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "homeless-solutions-program-request-application-rfa-land-acquisition",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "homeless-prevention-activities-program-rfa",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "households-application-requirements-checklist",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "homeless-solutions-program-project-based-vouchers-request-applications",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "homeowner-rehabilitation-and-reconstruction",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "housing",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 4
+      }
+    ],
+    "lighthouseErrorCount": 4,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "housing-assistance-report",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "housing-assistance-application-interruption",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "housing-covid19-Cares-act",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "housing-counseling",
+    "lighthouseErrors": [
+      {
+        "id": "frame-title",
+        "wcag": [
+          "2.4.1",
+          "4.1.2"
+        ],
+        "errorCount": 1
+      },
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 2,
+    "wcagErrors": [
+      {
+        "id": "2.4.1",
+        "lighthouse": "frame-title",
+        "errorCount": 1
+      },
+      {
+        "id": "4.1.2",
+        "lighthouse": "frame-title",
+        "errorCount": 1
+      }
+    ],
+    "wcagErrorCount": 2
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "housing-covid19-contractor-programs",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "housing-covid19-external-homeowner",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "housing-development-grant-funds-hdg",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "housing-development-loan-fund-hdlf",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "housing-covid19-homelessness",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "housing-trust-fund-htf",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "how-to-label-exhibits",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "important-dates",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "information-nsp-grantees",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "integrating-hazards-comprehensive-plan",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "jobs",
+    "lighthouseErrors": [
+      {
+        "id": "frame-title",
+        "wcag": [
+          "2.4.1",
+          "4.1.2"
+        ],
+        "errorCount": 2
+      },
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 3,
+    "wcagErrors": [
+      {
+        "id": "2.4.1",
+        "lighthouse": "frame-title",
+        "errorCount": 2
+      },
+      {
+        "id": "4.1.2",
+        "lighthouse": "frame-title",
+        "errorCount": 2
+      }
+    ],
+    "wcagErrorCount": 4
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "infrastructure",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "land-use-planning-for-wildfire-resilience",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "legal-and-rent-assistance-resources-for-tenants",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "local-government-or-public-housing-authority",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      },
+      {
+        "id": "image-alt",
+        "wcag": [
+          "1.1.1"
+        ],
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 2,
+    "wcagErrors": [
+      {
+        "id": "1.1.1",
+        "lighthouse": "image-alt",
+        "errorCount": 1
+      }
+    ],
+    "wcagErrorCount": 1
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "local-government-personnel-assistance",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "mitigation-assistance-infrastructure-assistance",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "mitigation-assistance-planning-education-capacity",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "mitigation-assistance-wind-wildfire-housing-protection-program",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "mobile-home-park-dispute-resolution",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 2
+      }
+    ],
+    "lighthouseErrorCount": 2,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "mobile-home-park-registration",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "mobile-home-park-oversight",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 2
+      }
+    ],
+    "lighthouseErrorCount": 2,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "mobile-home-park-sales",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "mobile-home-park-resources",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "money-follows-person",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "mobile-home-park-stakeholder-engagement",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "more-about-fort-lyon",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "neighborhood-stabilization-program-guidelines-and-regulations",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "national-housing-trust-fund-htf",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "neighborhood-stabilization-program",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "noncongregate-sheltering",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      },
+      {
+        "id": "link-name",
+        "wcag": [
+          "2.4.4",
+          "4.1.2"
+        ],
+        "errorCount": 2
+      }
+    ],
+    "lighthouseErrorCount": 3,
+    "wcagErrors": [
+      {
+        "id": "2.4.4",
+        "lighthouse": "link-name",
+        "errorCount": 2
+      },
+      {
+        "id": "4.1.2",
+        "lighthouse": "link-name",
+        "errorCount": 2
+      }
+    ],
+    "wcagErrorCount": 4
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "notice-of-funding-availability-community-development-block-grant-cbdo-certification",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "nsp3-grant-closed",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "nsp1-substantial-amendment",
+    "lighthouseErrors": [
+      {
+        "id": "color-contrast",
+        "wcag": [
+          "1.4.3"
+        ],
+        "errorCount": 2
+      },
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 3,
+    "wcagErrors": [
+      {
+        "id": "1.4.3",
+        "lighthouse": "color-contrast",
+        "errorCount": 2
+      }
+    ],
+    "wcagErrorCount": 2
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "office-of-homeless-initiatives",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "office-housing-finance-sustainability",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "office-of-regulatory-oversight",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "office-of-homeless-youth-services",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "office-of-rental-assistance",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "our-culture",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "open-request-applications-rfa",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "our-services",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "promotion-resources",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "programa-de-asistencia-de-alquiler-de-emergencia",
+    "lighthouseErrors": [
+      {
+        "id": "color-contrast",
+        "wcag": [
+          "1.4.3"
+        ],
+        "errorCount": 2
+      },
+      {
+        "id": "heading-order",
+        "errorCount": 2
+      }
+    ],
+    "lighthouseErrorCount": 4,
+    "wcagErrors": [
+      {
+        "id": "1.4.3",
+        "lighthouse": "color-contrast",
+        "errorCount": 2
+      }
+    ],
+    "wcagErrorCount": 2
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "procedures",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "programa-de-asistencia-hipotecaria-de-emergencia-de-colorado",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "public-information",
+    "lighthouseErrors": [
+      {
+        "id": "color-contrast",
+        "wcag": [
+          "1.4.3"
+        ],
+        "errorCount": 3
+      },
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 4,
+    "wcagErrors": [
+      {
+        "id": "1.4.3",
+        "lighthouse": "color-contrast",
+        "errorCount": 3
+      }
+    ],
+    "wcagErrorCount": 3
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "proposition-123-local-government-commitment-workshop",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "property-tax-terminology",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "publications-handouts",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "rehousing-resources",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "rapid-re-housing-re-entry-rfa",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "publications-reporting",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "rapid-re-housing-next-step-rfa",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "rental-assistance-program",
+    "lighthouseErrors": [
+      {
+        "id": "color-contrast",
+        "wcag": [
+          "1.4.3"
+        ],
+        "errorCount": 2
+      },
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 3,
+    "wcagErrors": [
+      {
+        "id": "1.4.3",
+        "lighthouse": "color-contrast",
+        "errorCount": 2
+      }
+    ],
+    "wcagErrorCount": 2
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "revolving-loan-fund-programs",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "renters",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "resilience-planning",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "rule-review-notification-doh",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "rules-rule-review-notification",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "sar-advisory-council",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "2009-iecc-resource-documents",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "2009-energy-codes",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "2012-energy-codes",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "2012-iecc-resource-documents",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "2015-iecc-resource-documents",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "2015-energy-codes",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "2018-permanent-supportive-housing-program-rfa",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "2016-tenant-based-rental-assistance-rfa",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "2022-annual-report-overview-emergency-mortgage-assistance-program",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "EDI",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "2022-summer-engagement-outreach-division-of-housing",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "POP-documents",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "action-plans-required-reports",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "about-dola",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "appeal-of-your-valuation-reminder",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "assessment-appeals",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "balance-of-state-continuum-of-care",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "board-adjustment-workshop",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "assessment-appeals-processes",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "board-of-assessment-appeals-baa-board-members",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "board-of-assessment-appeals-forms",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "board-of-assessment-appeals-case-search",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "boulder-county-collaborative",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "calendar",
+    "lighthouseErrors": [
+      {
+        "id": "frame-title",
+        "wcag": [
+          "2.4.1",
+          "4.1.2"
+        ],
+        "errorCount": 1
+      },
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 2,
+    "wcagErrors": [
+      {
+        "id": "2.4.1",
+        "lighthouse": "frame-title",
+        "errorCount": 1
+      },
+      {
+        "id": "4.1.2",
+        "lighthouse": "frame-title",
+        "errorCount": 1
+      }
+    ],
+    "wcagErrorCount": 2
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "changes-to-the-housing-recovery-program",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "building-energy-codes",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "brownfields",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "colorado-department-of-local-affairs-awards-more-than-18m",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "colorado-housing-investment-fund-chif",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "colorado-springs-vacancy-rent-survey-data",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "colorado-energy-code-compliance-collaborative",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "community-access-team",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "contact",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "community-housing-development-organizations-chdo",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "cora",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "denver-metro-area-vacancy-rent-survey-data",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "disaster-recovery-home-access",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "disaster-recovery-housing-purchase-down-payment-assistance",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "disaster-recovery-clearance-demolition-program",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "disaster-recovery-housing-repairs-single-family-rehabilitation",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "disaster-recovery-temporary-rental-assistance-and-relocation",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "division-of-housing-is-celebrating-national-community-development-week",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "division-overview",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "document-portal",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "dola-accessibility-support",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "draft-ctf-estimates",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "early-childhood-education-health-funding",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "economic-recovery",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "emergency-mortgage-assistance",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      },
+      {
+        "id": "image-alt",
+        "wcag": [
+          "1.1.1"
+        ],
+        "errorCount": 1
+      },
+      {
+        "id": "link-name",
+        "wcag": [
+          "2.4.4",
+          "4.1.2"
+        ],
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 3,
+    "wcagErrors": [
+      {
+        "id": "1.1.1",
+        "lighthouse": "image-alt",
+        "errorCount": 1
+      },
+      {
+        "id": "2.4.4",
+        "lighthouse": "link-name",
+        "errorCount": 1
+      },
+      {
+        "id": "4.1.2",
+        "lighthouse": "link-name",
+        "errorCount": 1
+      }
+    ],
+    "wcagErrorCount": 3
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "emergency-solutions-grant-esg-program",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "energy-codes-interactive-presentations",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "eviction-foreclosure-protection",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "executive-directors-office",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "factor-weights",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "fair-housing-resources",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "filing-fees",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "financial-assistance-county-totals-lookup",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "foreclosures-in-colorado",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "forms-housing-choice-voucher-contractors",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "fort-lyon-gallery",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "fort-lyon-profiles-kv",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "fort-lyon-profiles-dv",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "fort-lyon-profiles-wlty",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "fort-lyon-profiles-rd",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "fortlyon-resident-stories",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "fortlyon-covid19",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "fortlyon",
+    "lighthouseErrors": [
+      {
+        "id": "frame-title",
+        "wcag": [
+          "2.4.1",
+          "4.1.2"
+        ],
+        "errorCount": 1
+      },
+      {
+        "id": "link-name",
+        "wcag": [
+          "2.4.4",
+          "4.1.2"
+        ],
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 2,
+    "wcagErrors": [
+      {
+        "id": "2.4.1",
+        "lighthouse": "frame-title",
+        "errorCount": 1
+      },
+      {
+        "id": "4.1.2",
+        "lighthouse": "frame-title",
+        "errorCount": 1
+      },
+      {
+        "id": "2.4.4",
+        "lighthouse": "link-name",
+        "errorCount": 1
+      },
+      {
+        "id": "4.1.2",
+        "lighthouse": "link-name",
+        "errorCount": 1
+      }
+    ],
+    "wcagErrorCount": 4
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "gaming-impact-grant-forms",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "glossary",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "fraud-prevention",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "grantee-resources",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "hearing-schedules",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "hctc",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 3
+      }
+    ],
+    "lighthouseErrorCount": 3,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "home",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 2
+      }
+    ],
+    "lighthouseErrorCount": 2,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "home-program",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "home-rent-income-limits",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      },
+      {
+        "id": "link-name",
+        "wcag": [
+          "2.4.4",
+          "4.1.2"
+        ],
+        "errorCount": 2
+      }
+    ],
+    "lighthouseErrorCount": 3,
+    "wcagErrors": [
+      {
+        "id": "2.4.4",
+        "lighthouse": "link-name",
+        "errorCount": 2
+      },
+      {
+        "id": "4.1.2",
+        "lighthouse": "link-name",
+        "errorCount": 2
+      }
+    ],
+    "wcagErrorCount": 4
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "homebuyers-homeowners",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "homeless-and-runaway-youth-awareness-month",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "homeless-prevention-activities-program",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "homeless-prevention-activities-program-rfa",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "homeless-solutions-program-request-application-rfa-land-acquisition",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "homeowner-rehabilitation-and-reconstruction",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "homeless-solutions-program-project-based-vouchers-request-applications",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "households-application-requirements-checklist",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "housing",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 4
+      }
+    ],
+    "lighthouseErrorCount": 4,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "housing-assistance-application-interruption",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "housing-counseling",
+    "lighthouseErrors": [
+      {
+        "id": "frame-title",
+        "wcag": [
+          "2.4.1",
+          "4.1.2"
+        ],
+        "errorCount": 1
+      },
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 2,
+    "wcagErrors": [
+      {
+        "id": "2.4.1",
+        "lighthouse": "frame-title",
+        "errorCount": 1
+      },
+      {
+        "id": "4.1.2",
+        "lighthouse": "frame-title",
+        "errorCount": 1
+      }
+    ],
+    "wcagErrorCount": 2
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "housing-assistance-report",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "housing-covid19-Cares-act",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "housing-covid19-contractor-programs",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "housing-covid19-external-homeowner",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "housing-covid19-homelessness",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "housing-development-grant-funds-hdg",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "housing-trust-fund-htf",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "housing-development-loan-fund-hdlf",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "important-dates",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "how-to-label-exhibits",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "infrastructure",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "information-nsp-grantees",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "jobs",
+    "lighthouseErrors": [
+      {
+        "id": "frame-title",
+        "wcag": [
+          "2.4.1",
+          "4.1.2"
+        ],
+        "errorCount": 2
+      },
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 3,
+    "wcagErrors": [
+      {
+        "id": "2.4.1",
+        "lighthouse": "frame-title",
+        "errorCount": 2
+      },
+      {
+        "id": "4.1.2",
+        "lighthouse": "frame-title",
+        "errorCount": 2
+      }
+    ],
+    "wcagErrorCount": 4
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "integrating-hazards-comprehensive-plan",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "land-use-planning-for-wildfire-resilience",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "legal-and-rent-assistance-resources-for-tenants",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "local-government-or-public-housing-authority",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      },
+      {
+        "id": "image-alt",
+        "wcag": [
+          "1.1.1"
+        ],
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 2,
+    "wcagErrors": [
+      {
+        "id": "1.1.1",
+        "lighthouse": "image-alt",
+        "errorCount": 1
+      }
+    ],
+    "wcagErrorCount": 1
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "local-government-personnel-assistance",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "mitigation-assistance-infrastructure-assistance",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "mobile-home-park-oversight",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 2
+      }
+    ],
+    "lighthouseErrorCount": 2,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "mitigation-assistance-planning-education-capacity",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "mitigation-assistance-wind-wildfire-housing-protection-program",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "mobile-home-park-dispute-resolution",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 2
+      }
+    ],
+    "lighthouseErrorCount": 2,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "mobile-home-park-registration",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "more-about-fort-lyon",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "mobile-home-park-stakeholder-engagement",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "mobile-home-park-sales",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "mobile-home-park-resources",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "neighborhood-stabilization-program",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "national-housing-trust-fund-htf",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "money-follows-person",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "neighborhood-stabilization-program-guidelines-and-regulations",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "nsp1-substantial-amendment",
+    "lighthouseErrors": [
+      {
+        "id": "color-contrast",
+        "wcag": [
+          "1.4.3"
+        ],
+        "errorCount": 2
+      },
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 3,
+    "wcagErrors": [
+      {
+        "id": "1.4.3",
+        "lighthouse": "color-contrast",
+        "errorCount": 2
+      }
+    ],
+    "wcagErrorCount": 2
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "noncongregate-sheltering",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      },
+      {
+        "id": "link-name",
+        "wcag": [
+          "2.4.4",
+          "4.1.2"
+        ],
+        "errorCount": 2
+      }
+    ],
+    "lighthouseErrorCount": 3,
+    "wcagErrors": [
+      {
+        "id": "2.4.4",
+        "lighthouse": "link-name",
+        "errorCount": 2
+      },
+      {
+        "id": "4.1.2",
+        "lighthouse": "link-name",
+        "errorCount": 2
+      }
+    ],
+    "wcagErrorCount": 4
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "office-housing-finance-sustainability",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "nsp3-grant-closed",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "notice-of-funding-availability-community-development-block-grant-cbdo-certification",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "office-of-homeless-initiatives",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "office-of-homeless-youth-services",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "office-of-regulatory-oversight",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "our-culture",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "office-of-rental-assistance",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "our-services",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "programa-de-asistencia-de-alquiler-de-emergencia",
+    "lighthouseErrors": [
+      {
+        "id": "color-contrast",
+        "wcag": [
+          "1.4.3"
+        ],
+        "errorCount": 2
+      },
+      {
+        "id": "heading-order",
+        "errorCount": 2
+      }
+    ],
+    "lighthouseErrorCount": 4,
+    "wcagErrors": [
+      {
+        "id": "1.4.3",
+        "lighthouse": "color-contrast",
+        "errorCount": 2
+      }
+    ],
+    "wcagErrorCount": 2
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "open-request-applications-rfa",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "procedures",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "programa-de-asistencia-hipotecaria-de-emergencia-de-colorado",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "promotion-resources",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "proposition-123-local-government-commitment-workshop",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "property-tax-terminology",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "public-information",
+    "lighthouseErrors": [
+      {
+        "id": "color-contrast",
+        "wcag": [
+          "1.4.3"
+        ],
+        "errorCount": 3
+      },
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 4,
+    "wcagErrors": [
+      {
+        "id": "1.4.3",
+        "lighthouse": "color-contrast",
+        "errorCount": 3
+      }
+    ],
+    "wcagErrorCount": 3
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "publications-reporting",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "rapid-re-housing-next-step-rfa",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "publications-handouts",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "rapid-re-housing-re-entry-rfa",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "rehousing-resources",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "renters",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "rental-assistance-program",
+    "lighthouseErrors": [
+      {
+        "id": "color-contrast",
+        "wcag": [
+          "1.4.3"
+        ],
+        "errorCount": 2
+      },
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 3,
+    "wcagErrors": [
+      {
+        "id": "1.4.3",
+        "lighthouse": "color-contrast",
+        "errorCount": 2
+      }
+    ],
+    "wcagErrorCount": 2
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "resilience-planning",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "rule-review-notification-doh",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "revolving-loan-fund-programs",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "rules-rule-review-notification",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "sar-advisory-council",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "board-of-assessment-appeals-homepage/frequently-asked-questions",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "board-of-assessment-appeals-homepage/pre-hearing-checklist",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "boulder-county-collaborative/bcc-household-assistance-programs",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "boulder-county-collaborative/bcc-infrastructure-program",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "community-access-team/home-modification-tax-credit",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "economic-recovery/agriculture",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "economic-recovery/recover-colorado-business-grants",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "economic-recovery/tourism-marketing",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "foreclosures-in-colorado/foreclosure-reports-and-statistics",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "housing/disaster-recovery-housing-construction",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "housing-covid-19/homelessness-testing",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "infrastructure/recover-colorado-infrastructure",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "mobile-home-park-oversight-program/rent-increases-in-mobile-home-parks",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "mobile-home-park-registration/do-you-need-to-register",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "mobile-home-park-registration/address-list",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "news-article/colorados-population-increases-by-100986",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "news-article/department-of-local-affairs-announces-payments-of-379m-to-local-governments",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "news-article/dola-submits-preliminary-co-residential-property-tax-assessment-rate-study",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "news-article/the-department-of-local-affairs-distributes-over-125-million-in-conservation-trust",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "news-article/the-department-of-local-affairs-distributes-over-13-million-in-conservation-trust",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "office-of-homeless-initiatives/programs",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "office-of-housing-finance-sustainability/contractor-partner-agencies-resources",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "office-of-housing-finance-sustainability/funding-application",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "office-of-housing-finance-sustainability/funding-sources",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "office-of-housing-finance-sustainability/inventory-of-nondeveloped-state-owned-land",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "office-of-housing-finance-sustainability/types-of-programs-we-fund",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "office-of-regulatory-oversight/building-codes-and-standards",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "office-of-rental-assistance/for-landlords",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "office-of-rental-assistance/contractor-resources",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "office-of-rental-assistance/housing-voucher-programs",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 2
+      }
+    ],
+    "lighthouseErrorCount": 2,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "office-of-rental-assistance/section-8-participants",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "press-release/colorado-department-of-local-affairs-announces-new-main-street-community",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "press-release/colorado-department-of-local-affairs-announces-new-main-street-community-0",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "press-release/department-of-local-affairs-allocates-1396m-for-affordable-housing-eviction-0",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "press-release/more-than-44m-has-been-allocated-by-the-department-of-local-affairs-for-affordable",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      },
+      {
+        "id": "image-alt",
+        "wcag": [
+          "1.1.1"
+        ],
+        "errorCount": 12
+      }
+    ],
+    "lighthouseErrorCount": 13,
+    "wcagErrors": [
+      {
+        "id": "1.1.1",
+        "lighthouse": "image-alt",
+        "errorCount": 12
+      }
+    ],
+    "wcagErrorCount": 12
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "press-release/the-department-of-local-affairs-launches-the-wind-and-wildfire-home-protection",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "publications-reporting/vacancy-rent-surveys",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "resilience-planning/resilience-planning-program",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "board-of-assessment-appeals-homepage/pre-hearing-checklist",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "board-of-assessment-appeals-homepage/frequently-asked-questions",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "boulder-county-collaborative/bcc-household-assistance-programs",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "boulder-county-collaborative/bcc-infrastructure-program",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "community-access-team/home-modification-tax-credit",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "economic-recovery/agriculture",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "economic-recovery/recover-colorado-business-grants",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "economic-recovery/tourism-marketing",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "foreclosures-in-colorado/foreclosure-reports-and-statistics",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "housing/disaster-recovery-housing-construction",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "housing-covid-19/homelessness-testing",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "infrastructure/recover-colorado-infrastructure",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "mobile-home-park-oversight-program/rent-increases-in-mobile-home-parks",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "mobile-home-park-registration/address-list",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "mobile-home-park-registration/do-you-need-to-register",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "news-article/colorado-modular-and-manufactured-housing-industry-forum",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "news-article/department-of-local-affairs-announces-payments-of-379m-to-local-governments",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "news-article/dola-submits-final-co-residential-property-tax-assessment-rate-study-to-governor",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "news-article/dola-cdphe-and-cdot-collaborate-to-create-community-resource-for-smart-downtown",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "news-article/dola-announces-new-main-streetr-communities",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "office-of-homeless-initiatives/programs",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "office-of-regulatory-oversight/building-codes-and-standards",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "office-of-housing-finance-sustainability/contractor-partner-agencies-resources",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "office-of-housing-finance-sustainability/inventory-of-nondeveloped-state-owned-land",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "office-of-housing-finance-sustainability/private-activity-bonds",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "office-of-housing-finance-sustainability/regional-contacts",
+    "lighthouseErrors": [
+      {
+        "id": "color-contrast",
+        "wcag": [
+          "1.4.3"
+        ],
+        "errorCount": 2
+      },
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 3,
+    "wcagErrors": [
+      {
+        "id": "1.4.3",
+        "lighthouse": "color-contrast",
+        "errorCount": 2
+      }
+    ],
+    "wcagErrorCount": 2
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "office-of-housing-finance-sustainability/funding-sources",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "office-of-rental-assistance/for-landlords",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "office-of-rental-assistance/contractor-resources",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "office-of-rental-assistance/section-8-participants",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "office-of-rental-assistance/housing-voucher-programs",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 2
+      }
+    ],
+    "lighthouseErrorCount": 2,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "press-release/colorado-department-of-local-affairs-announces-main-street-open-for-business-awards",
+    "lighthouseErrors": [
+      {
+        "id": "link-name",
+        "wcag": [
+          "2.4.4",
+          "4.1.2"
+        ],
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [
+      {
+        "id": "2.4.4",
+        "lighthouse": "link-name",
+        "errorCount": 1
+      },
+      {
+        "id": "4.1.2",
+        "lighthouse": "link-name",
+        "errorCount": 1
+      }
+    ],
+    "wcagErrorCount": 2
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "press-release/department-of-local-affairs-allocates-1396m-for-affordable-housing-eviction-0",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "press-release/the-department-of-local-affairs-awards-more-than-24m-for-affordable-housing-choices",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      },
+      {
+        "id": "image-alt",
+        "wcag": [
+          "1.1.1"
+        ],
+        "errorCount": 10
+      }
+    ],
+    "lighthouseErrorCount": 11,
+    "wcagErrors": [
+      {
+        "id": "1.1.1",
+        "lighthouse": "image-alt",
+        "errorCount": 10
+      }
+    ],
+    "wcagErrorCount": 10
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "press-release/more-than-44m-has-been-allocated-by-the-department-of-local-affairs-for-affordable",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      },
+      {
+        "id": "image-alt",
+        "wcag": [
+          "1.1.1"
+        ],
+        "errorCount": 12
+      }
+    ],
+    "lighthouseErrorCount": 13,
+    "wcagErrors": [
+      {
+        "id": "1.1.1",
+        "lighthouse": "image-alt",
+        "errorCount": 12
+      }
+    ],
+    "wcagErrorCount": 12
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "press-release/the-department-of-local-affairs-set-to-introduce-the-state-of-colorado-housing",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "publications-reporting/vacancy-rent-surveys",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "resilience-planning/resilience-planning-program",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "office-of-homeless-initiatives/fort-lyon-supportive-residential-community/fort-lyon-press",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "office-of-housing-finance-sustainability/contractor-partner-agencies-resources/forms-guidance",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "office-of-housing-finance-sustainability/contractor-partner-agencies-resources/rental-homeownership",
+    "lighthouseErrors": [
+      {
+        "id": "color-contrast",
+        "wcag": [
+          "1.4.3"
+        ],
+        "errorCount": 10
+      },
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 11,
+    "wcagErrors": [
+      {
+        "id": "1.4.3",
+        "lighthouse": "color-contrast",
+        "errorCount": 10
+      }
+    ],
+    "wcagErrorCount": 10
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "office-of-housing-finance-sustainability/contractor-partner-agencies-resources/training",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "office-of-regulatory-oversight/mobile-home-park-oversight-program/quejas-sobre-el-parque-de-casas",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 2
+      }
+    ],
+    "lighthouseErrorCount": 2,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "office-of-regulatory-oversight/building-codes-and-standards/manufactured-housing-consumer",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "office-of-rental-assistance/contractor-resources/schedules",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "office-of-rental-assistance/contractor-resources/rental-assistance-programs-forms",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "office-of-rental-assistance/contractor-resources/tools-for-contractors",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "office-of-rental-assistance/contractor-resources/training",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 2
+      }
+    ],
+    "lighthouseErrorCount": 2,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "press-release/the-department-of-local-affairs-awards-more-than-36m-energy/mineral-impact-grants",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "office-of-homeless-initiatives/fort-lyon-supportive-residential-community/fort-lyon-press",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "office-of-regulatory-oversight/building-codes-and-standards/manufactured-housing-consumer",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "office-of-housing-finance-sustainability/contractor-partner-agencies-resources/forms-guidance",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "office-of-regulatory-oversight/mobile-home-park-oversight-program/quejas-sobre-el-parque-de-casas",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 2
+      }
+    ],
+    "lighthouseErrorCount": 2,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "office-of-housing-finance-sustainability/contractor-partner-agencies-resources/training",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "office-of-housing-finance-sustainability/contractor-partner-agencies-resources/rental-homeownership",
+    "lighthouseErrors": [
+      {
+        "id": "color-contrast",
+        "wcag": [
+          "1.4.3"
+        ],
+        "errorCount": 10
+      },
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 11,
+    "wcagErrors": [
+      {
+        "id": "1.4.3",
+        "lighthouse": "color-contrast",
+        "errorCount": 10
+      }
+    ],
+    "wcagErrorCount": 10
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "office-of-rental-assistance/contractor-resources/schedules",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "office-of-rental-assistance/contractor-resources/rental-assistance-programs-forms",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "office-of-rental-assistance/contractor-resources/training",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 2
+      }
+    ],
+    "lighthouseErrorCount": 2,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "office-of-rental-assistance/contractor-resources/tools-for-contractors",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dola",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "press-release/the-department-of-local-affairs-awards-more-than-36m-energy/mineral-impact-grants",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  }
+]
